@@ -54,7 +54,7 @@ python manage.py runserver 8080
 * 로그인
 
 <div>
-    ![KakaoTalk_20201125_114352987](./images/KakaoTalk_20201125_114352987.gif)
+    ![KakaoTalk_20201125_114352987](https://github.com/kimsunghyun1995/food-det/tree/main/images/KakaoTalk_20201125_114352987.gif)
 </div>
 
 
