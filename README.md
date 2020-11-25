@@ -81,7 +81,7 @@ python manage.py runserver 8080
 
 * 사진을 분석하여 음식을 검출할 수 있습니다. 검출 못한 음식은 추가 할 수 있습니다.
 <div>
-    ![det](/uploads/bd927bcb11d88d48c39f73252ccccae6/det.gif)
+    ![det](https://user-images.githubusercontent.com/48992412/100179480-7b0bf080-2f19-11eb-913e-612e4aaccafc.gif)
     ![search](/uploads/4f752c84f009d0331553054213ce875a/search.gif)
     ![추가할데이터영역선택](/uploads/f161d7885c6d36a07c4a00075f3dfe30/추가할데이터영역선택.gif)
 </div>
