@@ -61,9 +61,9 @@ python manage.py runserver 8080
 * 회원가입
 
 <div>
-   ![KakaoTalk_20201125_114352987_01](images/KakaoTalk_20201125_114352987_01.jpg)
-   ![KakaoTalk_20201125_114352987_02](images/KakaoTalk_20201125_114352987_02.jpg)
-   ![KakaoTalk_20201125_114352987_03](images/KakaoTalk_20201125_114352987_03.jpg)
+   ![KakaoTalk_20201125_114352987_01](./images/KakaoTalk_20201125_114352987_01.jpg)
+   ![KakaoTalk_20201125_114352987_02](./images/KakaoTalk_20201125_114352987_02.jpg)
+   ![KakaoTalk_20201125_114352987_03](./images/KakaoTalk_20201125_114352987_03.jpg)
 </div>
 
 
@@ -81,9 +81,9 @@ python manage.py runserver 8080
 
 * 사진을 분석하여 음식을 검출할 수 있습니다. 검출 못한 음식은 추가 할 수 있습니다.
 <div>
-    ![det](images/det.gif)
-    ![search](images/search.gif)
-    ![추가할데이터영역선택](images/추가할데이터영역선택.gif)
+    ![det](./images/det.gif)
+    ![search](./images/search.gif)
+    ![추가할데이터영역선택](./images/추가할데이터영역선택.gif)
 </div>
 
 
