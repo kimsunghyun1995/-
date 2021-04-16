@@ -55,28 +55,27 @@ python manage.py runserver 8080
 
 <div>
     <img src='./images/KakaoTalk_20201125_114352987.gif'>
-    ![KakaoTalk_20201125_114352987](./images/KakaoTalk_20201125_114352987.gif)
 </div>
 
 
 * 회원가입
 
 <div>
-   ![KakaoTalk_20201125_114352987_01](https://github.com/kimsunghyun1995/food-det/tree/main/images/KakaoTalk_20201125_114352987_01.jpg)
-   ![KakaoTalk_20201125_114352987_02](images/KakaoTalk_20201125_114352987_02.jpg)
-   ![KakaoTalk_20201125_114352987_03](/images/KakaoTalk_20201125_114352987_03.jpg)
+    <img src='./images/KakaoTalk_20201125_114352987_01.gif'>
+    <img src='./images/KakaoTalk_20201125_114352987_02.jpg'>
+    <img src='./images/KakaoTalk_20201125_114352987_03.gif'>
 </div>
 
 
 * 내정보
 <div>
-![KakaoTalk_20201125_114352987_04](images/KakaoTalk_20201125_114352987_04.gif)
+    <img src='./images/KakaoTalk_20201125_114352987_04.gif'>
 </div>
 
 
 * 메인화면
 <div>
-![KakaoTalk_20201125_114352987_06](images/KakaoTalk_20201125_114352987_06.gif)   
+    <img src='./images/KakaoTalk_20201125_114352987_06.gif'>
 </div>
 
 
