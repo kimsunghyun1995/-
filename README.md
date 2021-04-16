@@ -90,32 +90,32 @@ python manage.py runserver 8080
 
 * 기록 / 오늘 먹은 음식의 영양성분 및 칼로리를 확인하고 기록 할 수 있습니다. 
 <div>
-![기록추가](images/기록추가.gif)
-![기록에서영양성분및칼로리확인](images/기록에서영양성분및칼로리확인.gif)
+    <img src='./images/기록추가.gif' width="300">
+    <img src='./images/기록에서영양성분및칼로리확인.gif' width="300">
 </div>
 
 * 기록을 추가 할 때 날짜와 시간대를 설정하세요 
 
 <div>
-    ![날짜변경](images/날짜변경.gif)
-    ![시간추가](images/시간추가.gif)
-    ![달력기능](images/달력기능.gif)
+    <img src='./images/날짜변경.gif' width="300">
+    <img src='./images/시간추가.gif' width="300">
+    <img src='./images/달력기능.gif' width="300">
 </div>
 
 
 
 * 식단을 공유하기 위한 피드 / 다른 사람의 식단을 보고 댓글로 소통하세요
 <div>
-![피드확인좋아요](images/피드확인좋아요.gif)
-![댓글달기](images/댓글달기.gif)
+    <img src='./images/피드확인좋아요.gif' width="300">
+    <img src='./images/댓글달기.gif' width="300">
 </div>
 
 * 게시물 등록 시 레시피와 태그를 추가할 수 있습니다.
 
 <div>
-![피드게시물생성](images/피드게시물생성.gif)
-![피드게시물태그추카](images/피드게시물태그추카.gif)
-![레시피추가](images/레시피추가.gif)
+    <img src='./images/피드게시물생성.gif' width="300">
+    <img src='./images/피드게시물태그추카.gif' width="300">
+    <img src='./images/레시피추가.gif' width="300">
 </div>
 
 ## 🌐 Supported Browsers
