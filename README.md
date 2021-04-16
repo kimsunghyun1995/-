@@ -61,7 +61,7 @@ python manage.py runserver 8080
 * 회원가입
 
 <div>
-    <img src='./images/KakaoTalk_20201125_114352987_01.jpg' width="200" style="display:block">
+    <img src='./images/KakaoTalk_20201125_114352987_01.jpg' width="400" height="400" style="display:inline">
     <img src='./images/KakaoTalk_20201125_114352987_02.jpg'>
     <img src='./images/KakaoTalk_20201125_114352987_03.jpg'>
 </div>
